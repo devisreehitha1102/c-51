@@ -1,0 +1,34 @@
+
+ h1 {
+  color:rebeccapurple;
+ } 
+ 
+ h2,p{
+     text-align: center;
+     text-shadow:#ee1717;
+ }
+
+ /**{
+     border:solid;
+ }*/
+
+ .header{
+   background-color: #aef9fc;  
+   display: flex;
+   justify-content: space-between;
+ }
+
+ .grid{
+   display: flex; 
+   flex-wrap: wrap;
+   justify-content: space-evenly; 
+ }
+
+ .reference{
+   display: flex; 
+   justify-content: flex-end;   
+ }
+
+ body{
+   background-color: #808080;
+ }
